@@ -63,7 +63,6 @@ const Login = () => {
                                         name="password"
                                         className="w-full p-4 pr-12 text-sm border border-gray-200 rounded-lg shadow-sm"
                                         placeholder="Enter password"
-                                        value="Ali123456"
                                     />
                                 </div>
                             </div>
